@@ -8,6 +8,7 @@ Based on [this Clover setup](https://github.com/AntiBillOS/DELL_E6430_IntelHD_ma
 - CPU: i5-3320M CPU @ 2.60GHz
 - Screen resulution: 1366 × 768
 - WiFi: custom DW1510/BCM94322HM8L
+- Bluetooth: DW380
 
 
 ### Issues
