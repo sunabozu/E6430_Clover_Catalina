@@ -2,6 +2,7 @@
 
 ### Hardware:
 
+- BIOS: A20 (although A24 should work too)
 - CPU: i5-3320M CPU @ 2.60GHz
 - Screen resulution: 1366 × 768
 - WiFi: custom DW1510/BCM94322HM8L
