@@ -33,7 +33,7 @@
 					<key>Replace</key>
 					<data>RUgwMQ==</data>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Comment</key>
 					<string>change EHC1 to EH01</string>
 				</dict>
@@ -43,7 +43,7 @@
 					<key>Replace</key>
 					<data>RUgwMg==</data>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Comment</key>
 					<string>change EHC2 to EH02</string>
 				</dict>
@@ -95,7 +95,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>Arguments</key>
-		<string>slide=0 dart=0 kext-dev-mode=1 bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300</string>
+		<string>slide=0 dart=0 kext-dev-mode=1</string>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 		<key>Timeout</key>
