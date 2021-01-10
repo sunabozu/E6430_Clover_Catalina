@@ -154,6 +154,8 @@
 			<key>Linux</key>
 			<false/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1366x768</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -437,6 +439,11 @@
 		<string>0x00020000</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
+	</dict>
+	<key>Quirks</key>
+	<dict>
+		<key>DisableRtcChecksum</key>
+		<true/>
 	</dict>
 </dict>
 </plist>
