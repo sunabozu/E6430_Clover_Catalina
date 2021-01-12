@@ -12,5 +12,6 @@ Based on [this Clover setup](https://github.com/AntiBillOS/DELL_E6430_IntelHD_ma
 
 
 ### Issues
-- After waking up from sleep you need to press a button in order to activate the screen.
-- The way how it reacts on an HDMI cable being plugged in is not satisfactory (screen blinks too many times)
+- ~~After waking up from sleep you need to press a button in order to activate the screen.~~
+- ~~The way how it reacts on an HDMI cable being plugged in is not satisfactory (screen blinks too many times)~~
+- Need to press the power button after opening the lid to wake up.
